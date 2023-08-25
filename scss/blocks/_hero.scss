@@ -1,0 +1,119 @@
+.hero-box{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: left;
+}
+
+.hero-box-1 {
+    width: 950px;
+    height: 600px;
+}
+.hero-box-2 {
+    width: 950px;
+    height: 600px;
+    background-image: url("../images/gilos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hero-box-3 {
+    width: 950px;
+    height: 600px;
+    background-image: url("../images/mandarin.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.hero-box-title{
+    color: #24303E;
+    font-family: Fraunces 9pt Soft;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -0.286px;
+    margin-top: 158px;
+    text-align: center;
+
+}
+
+.hero-box-text{
+    width: 445px;
+    color: #808397;
+    font-family: Barlow;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px; /* 166.667% */
+    letter-spacing: -0.129px;
+    margin: 0 auto;
+    padding-top: 32px;
+}
+
+.hero-box-btn{
+    display: block;
+    background-color: #fff;
+    color: #24303E;
+    font-family: Fraunces 9pt Soft;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px; /* 166.667% */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    border: none;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.hero-box-title1{
+    color: #24554A;
+    text-align: center;
+    font-family: Fraunces 9pt Soft;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    margin-top: 398px;
+}
+
+.hero-box-text1{
+    width: 340px;
+    color: #3E7467;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px; /* 168.75% */
+    letter-spacing: -0.114px;
+    padding-top: 27px;
+    margin: 0 auto;
+}
+
+.hero-box-title2{
+    color: #052C3B;
+    text-align: center;
+    font-family: Fraunces 9pt Soft;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    letter-spacing: -0.2px;
+    margin-top: 398px;
+}
+
+.hero-box-text2{
+    width: 340px;
+    color: #19536C;
+    text-align: center;
+    font-family: Barlow;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 27px; /* 168.75% */
+    letter-spacing: -0.114px;
+    padding-top: 27px;
+    margin: 0 auto;
+}
